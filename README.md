@@ -1,14 +1,14 @@
 # Hi, I'm Vinith Reddy Banda 👋  
-> Fullstack Dev | DSA Explorer | Open Source Contributor  
-> Building beautiful ideas one line at a time
+Fullstack Dev | DSA Explorer | Open Source Contributor  
+ Building beautiful ideas one line at a time
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **DSA, Fullstack apps & Hearth (a map-based social platform)**
+- 🔭 I’m currently working on **DSA, Fullstack apps 
 - 🌱 I’m learning **Next.js, TypeScript, and system design**
-- 💬 Ask me about **C++, React, Firebase, Maps API, Supabase**
+- 💬 Ask me about **C#, C++, React, Firebase, Maps API, Supabase**
 - ⚡ Fun fact: I love solving puzzles and designing clean UI/UX
 
 ---
