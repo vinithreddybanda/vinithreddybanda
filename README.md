@@ -11,11 +11,19 @@
 <a href="https://hub.docker.com/u/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dockerhub-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub"></a>
 <a href="https://leetcode.com/u/vinithreddybanda/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
-<a href="https://bento.me/vinithredddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/bento-000000.svg?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"></a>
 <a href="https://vinithreddybanda.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"></a>
+
+## Explore my projects
+
+<a href="https://github.com/vinithreddybanda/WhatsapStatusSaver" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-vinithreddybanda%2FWhatsapStatusSaver-1ED760?logo=github" alt="GitHub Repo"></a>
+<a href="https://github.com/users/vinithreddybanda/projects/6" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/MY%20TODO%20LIST%20on-GitHub-24292f?logo=github&logoColor=white" alt="View on GitHub"></a>
 
 <!-- Visitor Badge -->
 ![Visitors](https://komarev.com/ghpvc/?username=vinithreddybanda&color=blue&style=flat-square)
 
-<a href="https://github.com/sponsors/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me"></a>
+<p align="center">
+    <a href="https://github.com/sponsors/vinithreddybanda" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Sponsor%20Me-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor Me">
+    </a>
+</p>
 
