@@ -2,9 +2,7 @@
 <a href="https://discordapp.com/users/1370294727047516235" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://pin.it/694v6AXgE" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/pinterest-E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"></a>
 <a href="https://open.spotify.com/user/31mnnd3zhqhnwtigksfk7pghq7qi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/spotify-1ED760.svg?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="https://instagram.com/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.youtube.com/@vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://linkedin.com/in/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
 
 <a href="https://gitlab.com/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a href="https://hub.docker.com/u/vinithreddybanda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/dockerhub-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DockerHub"></a>
