@@ -9,6 +9,10 @@
 <a href="https://leetcode.com/u/vinithreddybanda/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/leetcode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 <a href="https://vinithreddybanda.me/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/portfolio-000000.svg?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"></a>
+## Learning ONLY CTS ༼ つ ◕_◕ ༽つ
+
+<a href="https://github.com/vinithreddybanda/Test" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-vinithreddybanda%2FTEST-1ED760?logo=github" alt="GitHub Repo"></a>
+
 
 ## Explore my projects
 
