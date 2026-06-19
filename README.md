@@ -1,6 +1,6 @@
 ![Projects](https://img.shields.io/badge/Projects-4da3ff?style=for-the-badge) [![whatsappstatussaver](https://img.shields.io/badge/whatsappstatussaver-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vinithreddybanda/WhatsapStatusSaver)
 
-![Connect on](https://img.shields.io/badge/Connect%20on-bd93f9?style=for-the-badge) [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discordapp.com/users/1370294727047516235)
+![Connect on](https://img.shields.io/badge/Connect%20on-bd93f9?style=for-the-badge) [![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.gg/m6h7KEQf)
 [![pinterest](https://img.shields.io/badge/pinterest-E60023?style=for-the-badge\&logo=pinterest\&logoColor=white)](https://pin.it/694v6AXgE)
 [![spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge\&logo=spotify\&logoColor=white)](https://open.spotify.com/user/31mnnd3zhqhnwtigksfk7pghq7qi)
 
